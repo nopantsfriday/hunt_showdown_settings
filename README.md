@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/nopantsfriday/restart_steam_client/blob/master/LICENSE)
+<br>Feel free to use, copy, fork, modify, merge, publish or distribute the script and/or parts of the script.
+
 # My personal Hunt: Showdown optimization attempts
 These are my personal Hunt: Showdown Windows 10/11 optimization attempts to improve frames per second, reduce frames drops and stutter. Keep in mind that not every setting may be right for you.
 
