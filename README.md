@@ -4,6 +4,7 @@ These are my personal Hunt: Showdown Windows 10/11 optimization attempts to impr
 ## Hunt in-game settings
 
 ## Nvidia 3D Settings
+![nvidia.png](https://raw.githubusercontent.com/nopantsfriday/hunt_showdown_settings/main/nvidia.png)
 
 # Application settings
 ## Disable hardware acceleration in Discord
