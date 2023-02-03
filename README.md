@@ -5,9 +5,27 @@
 These are my personal Hunt: Showdown Windows 10/11 optimization attempts to improve frames per second, reduce frames drops and stutter. Keep in mind that not every setting may be right for you.
 
 ## Hunt in-game settings
-![1.png](https://raw.githubusercontent.com/nopantsfriday/hunt_showdown_settings/main/1.png)
-![2.png](https://raw.githubusercontent.com/nopantsfriday/hunt_showdown_settings/main/2.png)
-![3.png](https://raw.githubusercontent.com/nopantsfriday/hunt_showdown_settings/main/3.png)
+
+### Basic Settings
+- Render Resolution Scale ```100```
+- Video Memory (VRAM) Usage Target ```90%```
+- Object Quality ```low```
+- Texture Quality ```low```
+- Texture Filtering ```16x (Anisotropic)```
+- Anti Aliasing SMAA ```1x```
+- Lighting Quality ```low```
+- Shadow Quality ```low```
+- Effect Quality ```low```
+- Post-Process Quality ```low``` (not off)
+- V-Sync ```off```
+- Max FPS ```180```
+- Depth of Field ```off```
+- Motion Blur ```off```
+### Advanced Settings
+- Surface Format Optimization ```off```
+- Toggle GPU Tesselation ```off```
+- Use 2 Pass Scene Rendering ```off```
+- Use 2 Pass Lighting ```off```
 
 ## Nvidia 3D Settings
 ![nvidia.png](https://raw.githubusercontent.com/nopantsfriday/hunt_showdown_settings/main/nvidia.png)
