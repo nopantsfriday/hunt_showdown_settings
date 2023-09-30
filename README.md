@@ -28,7 +28,31 @@ These are my personal Hunt: Showdown Windows 10/11 optimization attempts to impr
 - Use 2 Pass Lighting ```off```
 
 ## Nvidia 3D Settings
-![nvidia.png](https://raw.githubusercontent.com/nopantsfriday/hunt_showdown_settings/main/nvidia.png)
+- Image Scaling ```Off```
+- Image Sharpening ```Off```
+- Anisotropic Filtering	```Off```
+- Antialiasing - FXAA ```Off```
+- Antialiasing - Gamma Correction ```Off```
+- Antialiasing - Mode ```Override any application setting```
+- Antialiasing - Transparancy ```Off```
+- Background Application Max Frame Rate ```Off```
+- CUDA – GPUS ```All```
+- Low Latency Mode	```Ultra```
+- Max Frame Rate ```Off``` or ```Desired value```
+- Monitor Technology ```G-SYNC Compatible```
+- Multi-Frame Samples AA (MFAA) ```Off```
+- OpenGL GDI Compatibility ```Prefer performance```
+- OpenGL Rendering GPU ```Select GPU here```
+- Power Management Mode	```Prefer Max Performance```
+- Preferred refresh rate ```Highest available```
+- Texture filtering - Anisotropic sample optimization ```Off```
+- Texture filtering - Negative LOD bias ```Allow```
+- Texture filtering - Quality ```High performance```
+- Texture filtering - Trilinear optimization ```On```
+- Threaded optimization ```On```
+- Tripple buffering ```Off```
+- Vertical Sync	```Use the 3D application setting```
+- Virtual Reality pre-rendered frames ```1```
 
 # Application settings
 ## Disable hardware acceleration in Discord
