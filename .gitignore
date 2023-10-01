@@ -1,0 +1,51 @@
+# Directory (contents) ignores
+.cloud
+.storage
+deps
+custom_components
+tts
+www
+image
+themes
+
+# File ignores
+secrets.yaml
+zigbee.db
+authorized_keys
+go2rtc.yaml
+go2rtc*
+rtsp2webrtc_v5_aarch64
+watchman_report.txt
+backup.yaml
+
+# Generic ignores
+logs
+*.log
+*.1
+*.fault
+*.db
+*.db-shm
+*.db-wal
+*.pyc
+._*
+__pycache__
+*.uuid
+*.conf
+*.db
+*.db-journal
+*.log
+*.noload
+*.txt
+*.sqlite
+*.xml
+*.backup
+*.json
+*.csr
+*.crt
+*.key
+*.pem
+
+# Ignore files created by IDE's
+.vscode
+.theia
+.Trash*
